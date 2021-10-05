@@ -5,7 +5,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 9
-      h1 Georeferenciación del sitio de muestreo 
+      h1 Georreferenciación del sitio de muestreo 
     p.mb-5 La georreferenciación de un punto de muestreo es la localización de las coordenadas geográficas del lugar que se va a muestrear es importante porque define la ubicación exacta en el punto de muestreo; esta es tomada con el GPS. Los puntos de muestreo seleccionados deben identificarse en el registro respectivo con los siguientes datos en su orden, así:
     .row.justify-content-center
       .col-lg-5
@@ -21,7 +21,7 @@
           div
             p Constancia Registro Único de Prestadores de Servicios - RUPS y fecha de registro ante la Superintendencia de Servicios Públicos Domiciliarios.
           div
-            p Descripción exacta de su ubicación con base en el nombre de la instalación municipal más cercana (hospital, estadio, escuela, parque, plaza de mercado, etc.) o el nombre del componente del sistema de distribución donde se instale, o el nombre del barrio, localidad, vereda, finca
+            p Descripción exacta de su ubicación con base en el nombre de la instalación municipal más cercana (hospital, estadio, escuela, parque, plaza de mercado, etc.) o el nombre del componente del sistema de distribución donde se instale, o el nombre del barrio, localidad, vereda, finca.
           div
             p Georreferenciación del punto de muestreo.
           div

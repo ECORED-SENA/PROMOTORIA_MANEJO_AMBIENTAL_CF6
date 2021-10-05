@@ -48,7 +48,7 @@
             .col-lg-9
               .tarjeta_contenido 
                 h4 Sólidos: 
-                p.mb-0 Aquellos  que son inflamables explosivos que sueltan vapor causan daños a la salud humana.
+                p.mb-0 Aquellos  que son inflamables, explosivos, que sueltan vapor, causan daños a la salud humana.
       .col-lg-6.mb-3
         .tarjeta.tarjeta-hover.bg-amarillo-claro.p-4.mb-3.d-flex.h-100.align-items-center
           .row.align-items-center
@@ -82,20 +82,22 @@
             .col-lg-9
               .tarjeta_contenido 
                 h4 Vapores:   
-                p.mb-0 Son de manejo profesional por su composición de evaporación se hace a temperatura ambiente causa dañado a las partes y órganos del cuerpo como ojos y pies.
+                p.mb-0 Son de manejo profesional, por su composición de evaporación se hace a temperatura ambiente, causa daño a las partes y órganos del cuerpo como ojos y pies.
     Separador
     #t_4_1.titulo-segundo(data-aos="fade-right")
       h2 4.1 Hojas de seguridad de productos químicos
     .row.mb-5
       .col-lg-6.mb-3(data-aos="fade-right")
-        p El manejo de diferentes sustancias químicas para el procesamientos de muestras de agua tanto en campo como en laboratorio, implica un riesgo para el personal que las manipula, este riesgo debe ser controlado, desde el almacenamiento, compra y transporte de la sustancia hasta el momento en el cual se materialice un accidente relacionado a ese producto; 
+        p El manejo de diferentes sustancias químicas para el procesamiento de muestras de agua tanto en campo como en laboratorio, implica un riesgo para el personal que las manipula, este riesgo debe ser controlado, desde el almacenamiento, compra y transporte de la sustancia hasta el momento en el cual se materialice un accidente relacionado a ese producto; 
           b es por esto que debe existir un instrumento que le permita a las personas involucradas (empleados o comunidad) o al personal de asistencia médica (o de servicios de respuesta ante emergencias)
-          |, saber los compuestos, el tipo de manipulación, como almacenarla y cómo reaccionar ante un accidente con la misma.
+          |, saber los compuestos, el tipo de manipulación, cómo almacenarla y cómo reaccionar ante un accidente con la misma.
           br
           br
-          |Ese instrumento de gestión se denomina hojas de seguridad de producto. En Colombia este es un elemento fundamental para toda la cadena de manipulación de las sustancias químicas y se convirtió en un eje estratégico para los sistemas de seguridad y salud en el trabajo en cualquier entidad (pública y privada).
+          |Ese instrumento de gestión se denomina 
+          b hojas de seguridad de producto. 
+          | En Colombia este es un elemento fundamental para toda la cadena de manipulación de las sustancias químicas y se convirtió en un eje estratégico para los sistemas de seguridad y salud en el trabajo en cualquier entidad (pública y privada).
       .col-lg-6.mb-3(data-aos="fade-left"): img(src='@/assets/curso/43.jpg')
-      p.mb-5 La estructura de las hojas de seguridad y su uso obligatorio en la organización fue impuesta por diferentes bases normativas, en este caso es importante que dirigirse y estudiar a fondo las siguientes:
+      p.mb-5 La estructura de las hojas de seguridad y su uso obligatorio en la organización fue impuesta por diferentes bases normativas, en este caso es importante dirigirse y estudiar a fondo las siguientes:
       .row.mb-5
         .col-lg-12
           .tarjeta-avatar-b.mb-5.d-flex.align-items-center
@@ -239,10 +241,10 @@
             | Cómo se llama y qué lo conforma.
           li 
             i.fas.fa-check
-            | Detalles del producto, para que se utiliza.
+            | Detalles del producto, para qué se utiliza.
           li 
             i.fas.fa-check
-            | Sus propiedades físicas y químicas: olor, color, estado, PH, entre otros.
+            | Sus propiedades físicas y químicas: olor, color, estado, pH, entre otros.
           li 
             i.fas.fa-check
             | Manera de mostrar el producto.
@@ -258,7 +260,7 @@
     Separador
     #t_4_3.titulo-segundo(data-aos="fade-right")
       h2 4.3 Técnicas de almacenamiento
-    p.mb-5 Se utilizan recipientes de plástico o vidrio según el parámetro requerido en la adición de reactivos. Se debe hacer una fijación de la muestra, control de pH, filtro, conservación refrigeración 5⁰c y 3⁰c. Debido a que el agua potable es utilizada para el consumo de agua los muestreos de esta se hacen bajo estrictas medidas de seguridad para evitar la contaminación con microorganismos, debido a eso se hacen necesarias herramientas especiales en términos de envases con inhibidores bacterianos, técnicas de muestreo y preservantes para garantizar la calidad de la muestra, alistamiento de envases, reactivos y preservantes para la toma de muestras de agua potable
+    p.mb-5 Se utilizan recipientes de plástico o vidrio según el parámetro requerido en la adición de reactivos. Se debe hacer una fijación de la muestra, control de pH, filtro, conservación, refrigeración entre 5⁰C y 3⁰C. Debido a que el agua potable es utilizada para el consumo. Los muestreos se hacen bajo estrictas medidas de seguridad para evitar la contaminación con microorganismos, debido a eso se hacen necesarias herramientas especiales en términos de envases con inhibidores bacterianos, técnicas de muestreo y preservantes para garantizar la calidad de la muestra, alistamiento de envases, reactivos y preservantes para la toma de muestras de agua potable.
       br
       br
       |Bien sea para actividades de control o vigilancia, una vez definido el tipo de muestreo, antes de iniciar las actividades se debe alistar el material requerido dentro de este:
@@ -283,7 +285,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               h3 Recipiente preservantes
-              p Ir en neveras con hielo o geles, de tal manera que se garantice una conservación adecuada. Una manera práctica para el transporte del hielo puede ser en recipientes plásticos que eviten filtraciones (INS, 2011, p.46).
+              p Ir en neveras con hielo o geles, de tal manera que se garantice una conservación adecuada. Una manera práctica para el transporte del hielo puede ser en recipientes plásticos que eviten filtraciones (INS, 2011, p. 46).
             .col-md-6
               figure
                 img(src='@/assets/curso/64.jpg', alt='Texto que describa la imagen')
@@ -294,11 +296,11 @@
                 img(src='@/assets/curso/65.jpg', alt='Texto que describa la imagen')
             .col-md-6
               h3 Escoger la sustancia preservante
-              p Cuando se requiera su uso se debe determinar de acuerdo con los parámetros a medir el tipo de preservación la cual puede ser por acidificación a pH<2, alcalinización a pH >11,Enfriamiento entre 2° a 5 °, congelamiento a - 20°, entre otros.
+              p Cuando se requiera su uso se debe determinar de acuerdo con los parámetros a medir el tipo de preservación la cual puede ser por acidificación a pH < 2, alcalinización a pH > 11, enfriamiento entre 2° a 5 °, congelamiento a -20°, entre otros.
           .row
             .col-md-6.mb-4.mb-md-0
-              h3 Neveras o elementos de transporte y preservación: 
-              p Las neveras portátiles deberán mantenerse a la sombra para permitir una mayor conservación de la temperatura. El enfriamiento simple (en hielo o en un refrigerador a 4° C) y el almacenamiento de la muestra en la oscuridad es, en la mayoría de los casos, suficiente para preservar la muestra durante el transporte al laboratorio y durante un período de tiempo relativamente corto antes del análisis (INS, 2011, p.46).
+              h3 Neveras o elementos de transporte y preservación 
+              p Las neveras portátiles deberán mantenerse a la sombra para permitir una mayor conservación de la temperatura. El enfriamiento simple (en hielo o en un refrigerador a 4°C) y el almacenamiento de la muestra en la oscuridad es, en la mayoría de los casos, suficiente para preservar la muestra durante el transporte al laboratorio y durante un período de tiempo relativamente corto antes del análisis (INS, 2011, p. 46).
             .col-md-6
               figure
                 img(src='@/assets/curso/66.jpg', alt='Texto que describa la imagen')

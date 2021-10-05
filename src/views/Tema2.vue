@@ -6,35 +6,37 @@
       .titulo-principal__numero
         span 2
       h1 Tipos de fuentes
-    p.mb-5 Los tipos de fuentes que se utilizan para calcular el caudal pueden ser de agua lluvia, agua superficiales y partes de una cuenca, tal como se podrá ver a continuación: 
+    p.mb-5 Los tipos de fuentes que se utilizan para calcular el caudal pueden ser de agua lluvia, aguas superficiales y partes de una cuenca, tal como se podrá ver a continuación: 
     .row.mb-5.justify-content-center
-      .col-4
-        .tarjeta-imagen.bg-verde.h-100
+      .col-xl-4.mb-5
+        .tarjeta-imagen.bg-verde.h-100.mb-5
           .tarjeta-imagen__imagen: img(src='@/assets/curso/12.jpg')
           .tarjeta-imagen__contenido.p-4.text-center.m-4
             h4 Agua de lluvia
             p Se emplea cuando no es posible obtener aguas superficiales y subterráneas de buena calidad y cuando el régimen de lluvias sea considerable.
-      .col-4
-        .tarjeta-imagen.bg-verde.h-100
+      .col-xl-4.mb-5
+        .tarjeta-imagen.bg-verde.h-100.mb-5
           .tarjeta-imagen__imagen: img(src='@/assets/curso/13.jpg')
           .tarjeta-imagen__contenido.p-4.text-center.m-4
             h4 Aguas superficiales
-            p Se emplea a partir de la captación de agua de lluvia, arroyos, ríos, lagos, etc. que discurren naturalmente en la superficie terrestre. Estas fuentes no son tan deseables, especialmente si existen zonas habitadas o de pastoreo animal aguas ambas. 
-      .col-4
-        .tarjeta-imagen.bg-verde.h-100
+            p Se emplean a partir de la captación de agua de lluvia, arroyos, ríos, lagos, etc. que discurren naturalmente en la superficie terrestre. Estas fuentes no son tan deseables, especialmente si existen zonas habitadas o de pastoreo animal.
+      .col-xl-4.mb-5
+        .tarjeta-imagen.bg-verde.h-100.mb-5
           .tarjeta-imagen__imagen: img(src='@/assets/curso/14.jpg')
           .tarjeta-imagen__contenido.p-4.text-center.m-4
             h4 Agua de cuenca
-            p Se infiltra en el suelo hasta la zona de saturación, formando así las aguas subterráneas, su explotación de estas dependerá de las características hidrológicas y de la formación geológica del acuífero. La captación de aguas subterráneas se puede realizar a través de manantiales, galerías filtrantes y pozos.
+            p Se infiltra en el suelo hasta la zona de saturación, formando así las aguas subterráneas, su explotación dependerá de las características hidrológicas y de la formación geológica del acuífero. La captación de aguas subterráneas se puede realizar a través de manantiales, galerías filtrantes y pozos.
     p.mb-5 En estos tipos de fuentes se tiene incorporado el caudal, el cual se define como la cantidad de agua que pasa por una superficie en un determinado tiempo. El cálculo de caudal se determina de la siguiente forma:
-    .d-flex.mb-5
-      img(src='@/assets/curso/15.jpg' style='width: 610px')
-      .bg-amarillo.p-5.h-50.w-100.d-flex.justify-content-center.align-items-center
-        h3 Q=V/t, V es volumen
-            br
-            |t= es el tiempo que se utiliza en su toma
-            br
-            |Las unidades de medida son l/S m3/s.
+    .row.justify-content-center.g-0.mb-5
+      .col-lg-7
+        img(src='@/assets/curso/15.jpg' )
+      .col-lg-5
+        .bg-amarillo.p-5.h-50.w-100.d-flex.justify-content-center.align-items-center
+          h3 Q=V/t, V es volumen
+              br
+              |t= es el tiempo que se utiliza en su toma
+              br
+              |Las unidades de medida son l/s m<sup>3</sup>/s.
     p.mb-5 Además del caudal, se debe tener en cuenta los métodos del cálculo de aforo, los cuales permiten calcular el caudal en una fuente de agua para su posterior análisis, entre ellos se pueden relacionar:
     TabsD.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Método volumétrico" :icono="require('@/assets/curso/16.svg')" :icono2="require('@/assets/curso/17.svg')")
@@ -69,7 +71,7 @@
         .row
           .col-md-12.mb-4.mb-md-0
             h4 Método de vertederos y orificios
-            p Se interpone un tabique ante una corriente con el propósito de generar una caída de agua para que pase a través de una sección predeterminada. Conociendo las características del vertedero o del orificio que se engloban en el factor (determinado experimentalmente) la sección de la lámina de agua que pasa por ellos y la velocidad teórica de caída libre. 
+            p Se interpone un tabique ante una corriente con el propósito de generar una caída de agua para que pase a través de una sección predeterminada. Conociendo las características del vertedero o del orificio que se engloban en el factor (determinado experimentalmente), la sección de la lámina de agua que pasa por ellos y la velocidad teórica de caída libre. 
 
           .col-md-12
             .tarjeta.bg-verde-claro.p-4
@@ -85,24 +87,24 @@
                   .carousel-item.active
                     .row.justify-content-center
                       .col-lg-8
-                        h4 Vertedero rectangular sin contracciones. 
-                        p.mb-0 Es uno de los más sencillos para construir y por este motivo es uno de los más utilizados. rectangular sin contracciones. 𝑄 = 1.84 𝐿 × 𝐻 3/2.
+                        h4 Vertedero rectangular sin contracciones  
+                        p.mb-0 Es uno de los más sencillos para construir y por este motivo es uno de los más utilizados. 𝑄 = 1.84 𝐿 × 𝐻 3/2
                           br
                           br
                           b Donde: 
                           br
                           b Q = 
-                          | Caudal que fluye por el vertedero, en m3 /s
+                          | Caudal que fluye por el vertedero, en m<sup>3</sup> /s
                           br
                           b L = 
-                          | Ancho de la cresta, en m, 
+                          | Ancho de la cresta, en m  
                           br
                           b H = 
                           | Carga del vertedero, en m 
                   .carousel-item
                     .row.justify-content-center
                       .col-lg-8
-                        h4 Vertedero rectangular con dos contracciones. 
+                        h4 Vertedero rectangular con dos contracciones
                         p.mb-0 𝑄 = 1.84 (𝐿 − 0.2𝐻) × 𝐻 3/2 
 
                           br
@@ -110,7 +112,7 @@
                           b Donde:
                           br
                           b Q = 
-                          | Caudal que fluye por el vertedero, en m3 /s
+                          | Caudal que fluye por el vertedero, en m<sup>3</sup> /s
                           br
                           b L = 
                           | Ancho de la cresta, en m 
@@ -120,15 +122,15 @@
                   .carousel-item
                     .row.justify-content-center
                       .col-lg-8
-                        h4 Vertedero triangular.
-                        p.mb-0 Permiten obtener medidas más precisas de las alturas de carga (H) correspondientes a caudales reducidos. Son construidos de placas metálicas. En la práctica únicamente se utilizan los que tienen forma isósceles, siendo los más usuales los de 90º. 𝑄 = 1.4 × 𝐻 5/2 7 
+                        h4 Vertedero triangular
+                        p.mb-0 Permiten obtener medidas más precisas de las alturas de carga (H) correspondientes a caudales reducidos. Son construidos de placas metálicas. En la práctica únicamente se utilizan los que tienen forma isósceles, siendo los más usuales los de 90º. 𝑄 = 1.4 × 𝐻 5/2 
 
                           br
                           br
                           b Donde:
                           br
                           b Q = 
-                          | Caudal que fluye por el vertedero, en m3 /s 
+                          | Caudal que fluye por el vertedero, en m<sup>3</sup> /s 
                           br
                           b H = 
                           | Carga del vertedero, en m 
@@ -142,7 +144,6 @@
                       .col-lg-8
                         h4 Vertedero circular 
                         p.mb-0 Su utilización es menos común que los anteriores, presentando como ventajas: la facilidad en su construcción, así como no requerir el nivelamiento de su cresta debido a su forma geométrica. 
-                          b Vertedero circular.  
                           |𝑄  
                           b = 1.518 ×  
                           |𝐷  
@@ -156,7 +157,7 @@
                           b Donde:
                           br
                           b Q =  
-                          | Caudal que fluye por el vertedero, en m3 /s 
+                          | Caudal que fluye por el vertedero, en m<sup>3</sup> /s 
                           br
                           b D =  
                           | Diámetro del círculo, en m 
@@ -173,18 +174,20 @@
         .row.justyfy-content-center
           .col-md-7.mb-4.mb-md-0
             h4 Método de sección-velocidad
-            p Se determinan separadamente la sección transversal del cauce y la velocidad del agua; la sección se determina por medio de sondeos o algún otro procedimiento topográfico y la velocidad por cualquiera de los métodos con molinete, flotador o pendiente hidráulica. De tal manera que el caudal del río estará dado por: Q = A x V 
-
+            p Se determinan separadamente la sección transversal del cauce y la velocidad del agua; la sección se determina por medio de sondeos o algún otro procedimiento topográfico y la velocidad por cualquiera de los métodos con molinete, flotador o pendiente hidráulica. De tal manera que el caudal del río estará dado por: Q = A x V  
+              br
+              br
               b Donde:
               br
               b Q = 
-              | Caudal del agua, en m3 /s 
+              | Caudal del agua, en m<sup>3</sup> /s 
               br
               b A = 
-              | Área de la sección transversal, en m2
+              | Área de la sección transversal, en m<sup>2</sup>
               br
               b V = 
               | Velocidad media del agua, en m/s 
+              br
               br
               | La dificultad principal es determinar la velocidad media porque varía en los diferentes puntos de la sección hidráulica.
           .col-md-4
@@ -221,6 +224,7 @@ export default {
     .tarjeta-imagen__imagen
       transform: translateY(0)
   .tarjeta-imagen__imagen
+    width: 100%
     transition: transform .3s ease-in-out
     position: absolute
     bottom: 0
@@ -232,10 +236,28 @@ export default {
 .bg-amarillo2
   background-color: #FFBB00
   border-radius: 300px 0px 0px 0px
+.carousel-control-prev
+  @media (max-width: $bp-max-md )
+    padding: 0
+    width: 32px
+    height: 32px
+    bottom: -40px
+    top: auto
+.carousel-control-next
+  @media (max-width: $bp-max-md )
+    padding: 0
+    width: 32px
+    height: 32px
+    bottom: -40px
+    top: auto
 .carousel-control-prev-icon
-
+  width: 32px
+  height: 32px
   background-image: url(../assets/curso/prev.svg)
 .carousel-control-next-icon
+  width: 32px
+  height: 32px
+
 
   background-image: url(../assets/curso/next.svg)
 

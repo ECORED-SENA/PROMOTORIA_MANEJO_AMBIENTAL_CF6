@@ -53,7 +53,7 @@
           .tarjeta-numerada__numero.p-2
             p.h1.text-center.mb-0 A 
           img(src='@/assets/curso/29.svg' style="width: 50px").mb-4
-          p Si el laboratorio está legalmente constituido, para ello se debe inspeccionar los archivos que demuestran cómo está constituido legalmente, y además verificar estas evidencias; es decir si se cuenta por ejemplo con un Rut, entonces con este se comprueba la veracidad.
+          p Si el laboratorio está legalmente constituido, para ello se debe inspeccionar los archivos que demuestran cómo está constituido legalmente, y además verificar estas evidencias; es decir si se cuenta por ejemplo con un RUT, entonces con este se comprueba la veracidad.
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-contenido.tarjeta-verde.p-5.h-100
           .tarjeta-numerada__numero.p-2
@@ -65,8 +65,8 @@
           .tarjeta-numerada__numero.p-2
             p.h1.text-center.mb-0 C 
           img(src='@/assets/curso/29.svg' style="width: 50px").mb-4
-          p Si el laboratorio participa en la evaluación técnica que se realiza para la compra de insumos, estándares, reactivos, materiales y equipos necesarios para su funcionamiento. Verifique que el laboratorio tenga identificados, clasificados, y actualizados los posibles riesgos o acciones preventivas que se pueden presentar inclusive, los riesgos asociados a los temas técnicos, sanitarios, y ambientales. 
-    p.mb-5 Las tomas de muestras de agua son de tres tipos: simples, compuestas e integradas. Las primeras se analizan en forma individual, en las segundas se tiene en cuenta la homogeneización y mezcla de ellas y en las terceras se funden las primeras con las segundas en un solo método. Los estándares de calidad en salud pública para laboratorios de análisis de agua para consumo humano son de varios tipos y se debe vigilar los laboratorios cumplan con los requisitos, que cuenten con los soportes pertinentes de cada requisito y también se debe prestar atención a la manera como se lleva a cabo la verificación de los requisitos y los soportes.
+          p Si el laboratorio participa en la evaluación técnica que se realiza para la compra de insumos, estándares, reactivos, materiales y equipos necesarios para su funcionamiento. Verifique que el laboratorio tenga identificados, clasificados y actualizados los posibles riesgos o acciones preventivas que se pueden presentar inclusive, los riesgos asociados a los temas técnicos, sanitarios y ambientales. 
+    p.mb-5 Las tomas de muestras de agua son de tres tipos: simples, compuestas e integradas. Las primeras se analizan en forma individual, en las segundas se tiene en cuenta la homogeneización y mezcla de ellas y en las terceras se funden las primeras con las segundas en un solo método. Los estándares de calidad en salud pública para laboratorios de análisis de agua para consumo humano son de varios tipos y se debe vigilar que los laboratorios cumplan con los requisitos, que cuenten con los soportes pertinentes de cada requisito y también se debe prestar atención a la manera como se lleva a cabo la verificación de los requisitos y los soportes.
 </template>
 
 <script>
@@ -83,13 +83,13 @@ export default {
       {
         titulo: 'Toma de agua compuesta  ',
         texto:
-          'Se adquieren teniendo en cuenta tanto la mezcla como la homogeneización de muestras simples que han sido capturadas en un punto fijo, pero en tiempos desiguales. Para los casos en que se requiere variar el volumen en cada toma, se recolectan muestras parciales (alícuotas) ej: cada 2 o 3 horas, cuyo volumen se obtiene según la siguiente relación:',
+          'Se adquieren teniendo en cuenta tanto la mezcla como la homogeneización de muestras simples que han sido capturadas en un punto fijo, pero en tiempos desiguales. Para los casos en que se requiere variar el volumen en cada toma, se recolectan muestras parciales (alícuotas) ej.: cada 2 o 3 horas, cuyo volumen se obtiene según la siguiente relación:',
         imagen: require('@/assets/curso/22.jpg'),
       },
       {
-        titulo: 'Toma de muestra de agua integradas',
+        titulo: 'Toma de muestra de agua integrada',
         texto:
-          'se adquieren teniendo en cuenta la mezcla y homogeneización de muestras simples que se capturaron en varios puntos al mismo tiempo.',
+          'Se adquiere teniendo en cuenta la mezcla y homogeneización de muestras simples que se capturaron en varios puntos al mismo tiempo.',
         imagen: require('@/assets/curso/23.jpg'),
       },
     ],

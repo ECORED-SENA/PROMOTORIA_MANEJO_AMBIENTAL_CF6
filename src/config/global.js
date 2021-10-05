@@ -89,7 +89,7 @@ export default {
           },
           {
             icono: 'far fa-file-alt',
-            numero: '4.2',
+            numero: '4.3',
             titulo: 'Técnicas de almacenamiento',
             hash: 't_4_3',
           },
@@ -99,7 +99,7 @@ export default {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: '5. Cadena de custodia ',
+        titulo: 'Cadena de custodia ',
         desarrolloContenidos: true,
       },
       {
@@ -113,7 +113,7 @@ export default {
         nombreRuta: 'tema7',
         icono: 'far fa-file-alt',
         numero: '7',
-        titulo: '7.Transporte de la muestra ',
+        titulo: 'Transporte de la muestra ',
         desarrolloContenidos: true,
       },
       {
@@ -126,7 +126,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '8.1',
-            titulo: 'Manuales de procedimiento',
+            titulo: 'Manual de procedimiento',
             hash: 't_8_1',
           },
           {
@@ -141,7 +141,7 @@ export default {
         nombreRuta: 'tema9',
         icono: 'far fa-file-alt',
         numero: '9',
-        titulo: 'Georeferenciación del sitio de muestreo',
+        titulo: 'Georreferenciación del sitio de muestreo',
         desarrolloContenidos: true,
       },
     ],
@@ -182,12 +182,6 @@ export default {
   referencias: [
     {
       referencia:
-        'Instituto Nacional de Salud. (2011). Manual de instrucciones para la toma, preservación y transporte de muestra de agua de consumo humano para análisis de laboratorio. ',
-      link:
-        'https://www.ins.gov.co/sivicap/Documentacin%20SIVICAP/2011%20Manual%20toma%20de%20muestras%20agua.pdf',
-    },
-    {
-      referencia:
         'Villada, A. (2014). Documentación de los manuales para la toma de muestra de calidad del agua y vertimientos, realizados por la Corporación Autónoma de Risaralda – (CARDER). ',
       link:
         'http://repositorio.utp.edu.co/dspace/bitstream/handle/11059/4558/628161V712.pdf;sequence=1',
@@ -202,7 +196,7 @@ export default {
     {
       termino: 'Caudal',
       significado:
-        'Cantidad de agua que pasa por una superficie en un determinado tiempo',
+        'Cantidad de agua que pasa por una superficie en un determinado tiempo.',
     },
     {
       termino: 'Muestra',
@@ -216,13 +210,6 @@ export default {
         'Universidad del Norte (s.f.). Criterios de aceptación de muestras de agua para análisis fisicoquímico.',
       tipo: 'Documento web',
       descarga: '/downloads/Reglamento_de_servicio.pdf',
-    },
-    {
-      texto:
-        'Subdirección Red Nacional de Laboratorios. (2011). Manual de instrucciones para la toma, preservación y transporte de muestras de agua de consumo humano para análisis de laboratorio. ',
-      tipo: 'Documento web',
-      link:
-        'https://www.ins.gov.co/sivicap/Documentacin%20SIVICAP/2011%20Manual%20toma%20de%20muestras%20agua.pdf',
     },
     {
       texto:
@@ -255,18 +242,18 @@ export default {
       },
       {
         nombre: 'Tatiana Palacios Martínez',
-        cargo: 'Experta Temática',
+        cargo: 'Experta temática',
         centro:
           'Centro de Recursos Naturales, Industria y Biodiversidad - Regional Chocó',
       },
       {
         nombre: 'Paula Andrea Taborda Ortiz',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisor Metodológico y pedagógico',
+        cargo: 'Revisor metodológico y pedagógico',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
@@ -313,7 +300,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

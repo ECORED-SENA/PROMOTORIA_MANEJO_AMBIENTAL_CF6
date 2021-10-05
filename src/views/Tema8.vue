@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 8
       h1 Registro de campo
-    p.mb-5 El registro de campo o acta de toma de muestras debe mantenerse intacto durante todo el procedimiento y el nombre que se le asigna a la muestra en el momento de la toma debe ser claro y marcado de forma durable para su identificación. Para ello, se deben tener en cuenta registrar la muestra con características in-situ como PH, temperatura para agua cruda y para agua potable, PH, temperatura y cloro residual. Es importante registrar el tipo de mediciones efectuadas y las variaciones ambientales del sitio tales como condiciones del clima y observaciones inusuales y para ello se debe tener en cuenta: 
+    p.mb-5 El registro de campo o acta de toma de muestras debe mantenerse intacto durante todo el procedimiento y el nombre que se le asigna a la muestra en el momento de la toma debe ser claro y marcado de forma durable para su identificación. Para ello, se deben tener en cuenta registrar la muestra con características in-situ como pH, temperatura para agua cruda y para agua potable, pH, temperatura y cloro residual. Es importante registrar el tipo de mediciones efectuadas y las variaciones ambientales del sitio tales como condiciones del clima y observaciones inusuales y para ello se debe tener en cuenta: 
     .contendores-hover.d-xl-block.d-lg-block
       .contenedor-colores-hover.bg-colores__naranja.d-flex.p-5.mb-1
         p.mb-0 Los recipientes que contengan muestras deben marcarse en forma clara y durable para permitir su identificación en el laboratorio sin ninguna ambigüedad. 
@@ -24,7 +24,7 @@
       .contenedor-colores-hover.bg-colores__azul.d-flex.p-5.mb-1
         p.mb-0 Cuando se muestrea por razones específicas, por ejemplo: 
           b quejas de un consumidor, debe darse información detallada, incluyendo las razones del muestreo. 
-          | Manual de Instrucciones para la toma, preservación y transporte 52 de muestras de agua de consumo humano para análisis de laboratorio.
+          | Manual de instrucciones para la toma, preservación y transporte de muestras de agua de consumo humano para análisis de laboratorio.
         .contenedor-colores-hover_img.d-none.d-xl-block.d-lg-block.d-md-block: img(src='@/assets/curso/74.svg')
       .contenedor-colores-hover.bg-colores__morado.d-flex.p-5.mb-1
         p.mb-0 Se puede pegar al recipiente, la tarjeta o etiqueta con la información requerida; pero con frecuencia se mojan al transportar las muestras refrigeradas al laboratorio y la información puede quedar ilegible. 
@@ -33,7 +33,7 @@
       .contenedor-colores-hover.bg-colores__verde.d-flex.p-5.mb-1
         p.mb-0 
           b Identificar el recipiente con un número
-          |, deseablemente escrito con lápiz No.2 y que consigne la información necesaria en el acta de toma de muestras, la cual debe ser diligenciada completamente. 
+          |, deseablemente escrito con lápiz N.° 2 y que consigne la información necesaria en el acta de toma de muestras, la cual debe ser diligenciada completamente. 
         .contenedor-colores-hover_img.d-none.d-xl-block.d-lg-block.d-md-block: img(src='@/assets/curso/76.svg')
       .contenedor-colores-hover.bg-colores__limon.d-flex.p-5.mb-5
         p.mb-0 Para asegurarse de no perder la información puede resultar mejor identificar la muestra, tanto por medio de 
@@ -117,7 +117,7 @@
           .tarjeta-numerada__numero
             .h2 1
           h4 Formato para captura de datos en campo
-          p Se registra de inmediato toda la información que se obtiene en campo, las observaciones y los datos de la toma de muestra en un formato destinado para dicha actividad. En este formato se debe tener en cuenta: propósito del muestreo; localización del sitio de muestreo, datos de la medición del caudal, descripción del punto, método de muestreo, fecha y hora de recolección, identificación del (los) recolectar(es), observaciones y mediciones de parámetros en campo. 
+          p Se registra de inmediato toda la información que se obtiene en campo, las observaciones y los datos de la toma de muestra en un formato destinado para dicha actividad. En este formato se debe tener en cuenta: propósito del muestreo; localización del sitio de muestreo, datos de la medición del caudal, descripción del punto, método de muestreo, fecha y hora de recolección, identificación del (los) recolector(es), observaciones y mediciones de parámetros en campo. 
       .col-md-6.col-xl.mb-4.mb-xl-0
         //- .tarjeta-numerada debe ir acompañado de una de una de estas clases => 
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones

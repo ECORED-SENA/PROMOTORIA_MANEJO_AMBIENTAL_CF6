@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 5
       h1 Cadena de custodia
-    p.mb-5 La cadena de custodia es el procedimiento que se debe seguir desde que se toma la muestra hasta obtener su resultado, aquí se deben seguir los protocolos para garantizar que el correcto resultado y que no sufra ninguna alteración; lo primero que se debe tener en cuenta son los procedimientos para una correcta toma. En sí, se considera el control y seguimiento de las condiciones de recolección de la muestra, preservación, codificación, transporte y análisis, esencial para asegurar la integridad de la muestra desde su recolección hasta el reporte de los resultados. Es la evidencia de la trazabilidad del muestreo y para ello, se debe seguir el siguiente protocolo: 
+    p.mb-5 La cadena de custodia es el procedimiento que se debe seguir desde que se toma la muestra hasta obtener su resultado, aquí se deben seguir los protocolos para garantizar el correcto resultado y que no sufra ninguna alteración; lo primero que se debe tener en cuenta son los procedimientos para una correcta toma. En sí, se considera el control y seguimiento de las condiciones de recolección de la muestra, preservación, codificación, transporte y análisis, esencial para asegurar la integridad de la muestra desde su recolección hasta el reporte de los resultados. Es la evidencia de la trazabilidad del muestreo y para ello, se debe seguir el siguiente protocolo: 
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in-up")
       .py-3.py-md-4(titulo="Análisis fisicoquímico")
         h4 Pasos prácticos para la toma de la muestra para análisis fisicoquímico
@@ -36,7 +36,7 @@
               span 6
             | Guardar la muestra en lugar fresco (cava o nevera portátil), conservar con hielo o gel refrigerante si fuera necesario y llevarla al laboratorio en el menor tiempo posible (se recomienda como tiempo máximo de entrega al laboratorio de 24 horas).
       .py-3.py-md-4(titulo="Análisis microbiológicos")
-        h4 Pasos prácticos para la toma de muestra para análisis microbiológicos.
+        h4 Pasos prácticos para la toma de muestra para análisis microbiológicos
         ol.lista-ol--cuadro
           li 
             .lista-ol--cuadro__vineta
@@ -62,14 +62,14 @@
           li 
             .lista-ol--cuadro__vineta
               span 6
-            | Guardar la muestra en lugar fresco (cava o nevera portátil), conservar con hielo o gel refrigerante si fuera necesario y llevarla al laboratorio en el menor tiempo posible (se recomienda como tiempo máximo de entrega a Laboratorio de 24 horas).
+            | Guardar la muestra en lugar fresco (cava o nevera portátil), conservar con hielo o gel refrigerante si fuera necesario y llevarla al laboratorio en el menor tiempo posible (se recomienda como tiempo máximo de entrega a laboratorio de 24 horas).
       .py-3.py-md-4(titulo="Microbiológicas con la bolsa")
-        h4 Pasos prácticos para la toma de muestras microbiológicas con la bolsa whirl-park
+        h4 Pasos prácticos para la toma de muestras microbiológicas con la bolsa <i>whirl-pak</i>
         ol.lista-ol--cuadro
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | Abrir la bolsa whirl-park con cuidado, estirando del plástico para rasgar por la línea perforada.
+            | Abrir la bolsa <i>whirl-pak</i> con cuidado, estirando del plástico para rasgar por la línea perforada.
           li 
             .lista-ol--cuadro__vineta
               span 2
@@ -94,7 +94,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 7
-            | Guardar la muestra en lugar fresco (cava o nevera portátil), conservar con hielo o gel refrigerante si fuera necesario y llevarla al laboratorio en el menor tiempo posible (se recomienda como tiempo máximo de entrega a Laboratorio de 24 horas).
+            | Guardar la muestra en lugar fresco (cava o nevera portátil), conservar con hielo o gel refrigerante si fuera necesario y llevarla al laboratorio en el menor tiempo posible (se recomienda como tiempo máximo de entrega a laboratorio de 24 horas).
       .py-3.py-md-4(titulo="Transporte y entrega")
         h4 Transporte y entrega de la muestra al laboratorio 
         ol.lista-ol--cuadro
@@ -112,6 +112,7 @@
             .lista-ol--cuadro__vineta
               span 3
             | Las muestras se deben entregar al laboratorio lo más pronto posible después de recolectadas, en el transcurso de 24 horas como máximo.
+    p La cadena de custodia es uno de los pasos importantes en el control y preservación de la muestra de agua al ser transportada desde su toma hasta la llegada al laboratorio, esto permite obtener un resultado confiable, es por esta razón que se debe seguir sus pasos de forma correcta para lograr la confiabilidad del resultado analizado. 
 </template>
 
 <script>

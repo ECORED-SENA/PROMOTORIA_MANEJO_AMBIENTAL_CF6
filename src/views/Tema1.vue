@@ -75,14 +75,14 @@
       h2 1.1 Técnicas de adecuación del área
     p.mb-5 Para atender las áreas de recolección es importante tener en cuenta las diferentes técnicas de adecuación del área: 
     .tarjeta--container.row.mb-5
-      .col-md.tarjeta.color-primario.p-5.hover-tarjetas
+      .col-md.tarjeta.color-secundario.p-5.hover-tarjetas
         .row.justify-content-center.mb-4
           .col-12.d-flex
             figure.m-auto
               img(src='@/assets/curso/8.jpg', alt='Texto que describa la imagen' style='width: 305px')
         .color-texto   
           h4 Accesibilidad
-          p Hace referencia al punto muestreo que se sitúa en un lugar de fácil acceso, el cual cuenta con las vías vehiculares y peatonales adecuadas, de tal manera que se facilite obtener las muestras, transportar equipos, recipientes y materiales de muestreo. 
+          p Hace referencia al punto de muestreo que se sitúa en un lugar de fácil acceso, el cual cuenta con las vías vehiculares y peatonales adecuadas, de tal manera que se facilite obtener las muestras, transportar equipos, recipientes y materiales de muestreo. 
 
       .col-md.tarjeta.color-acento-botones.p-5.hover-tarjetas
         .row.justify-content-center.mb-4
@@ -100,15 +100,15 @@
               img(src='@/assets/curso/10.jpg', alt='Texto que describa la imagen' style=' width: 305px')
           
         h4 Seguridad
-        p El punto de muestreo, sus alrededores y las condiciones meteorológicas deben garantizar la seguridad, no solo para la toma de muestra, sino para las personas que lo realizan, para que así, se evite cualquier tipo de accidentes.
+        p El punto de muestreo, sus alrededores y las condiciones meteorológicas deben garantizar la seguridad, no solo para la toma de muestra, sino para las personas que lo realizan, para que así, se evite cualquier tipo de accidente.
     Separador
     #t_1_2.titulo-segundo(data-aos="fade-right")
-      h2 1.2. Técnicas de aseo e higiene de la toma de muestra 
+      h2 1.2 Técnicas de aseo e higiene de la toma de muestra 
     p.mb-5 Es una inspección sanitaria que se utiliza como prevención, que permite detectar los daños que afectan la salud humana. Mediante ella se puede dar cuenta del estado físico del agua, se calcula el grado de contaminación y el grado de afectación de su calidad. Las personas encargadas de tomar la muestra deben actuar de forma correcta con todas las medidas de seguridad, utilizando los equipos de protección personal y sus procedimientos de forma segura. Para llevar a cabo el muestreo se deben utilizar de manera obligatoria equipos de protección, los cuales son: overol, bata de algodón, calzado que cubra la punta del pie y suela antideslizante, casco clase G, tapa boca, guantes de látex acrilonitrilo o de PVC, lentes de seguridad con protectores superiores y laterales y lámpara de mano.
     .row.mb-5.justify-content-center
       .col-lg-10
         .cajon.color-primario.tarjeta--verde-claro.p-5.mb-4.d-flex
-          p.w-70.h2.fw-normal.mb-0 La identificación del punto de nuestro es el lugar donde se toma la muestra, hay que tener en cuenta materiales, métodos y las técnicas de adecuación e higienización al momento de tomar la muestra.
+          p.w-70.h2.fw-normal.mb-0 Para la toma de la muestra es importante considerar, el lugar en el cual se encuentra la persona que la tomará, los materiales y una adecuada técnica e higienización de los instrumentos que se utilicen.
           .cajon_imagen.d-none.d-lg-block.d-md-block: img(src='@/assets/curso/11.svg', alt='Texto que describa la imagen')
       
 </template>
