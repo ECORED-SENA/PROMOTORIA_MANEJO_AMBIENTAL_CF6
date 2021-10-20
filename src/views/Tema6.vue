@@ -21,7 +21,7 @@
             .h1.mb-0.text-center 2
             img.px-3(src='@/assets/curso/69.svg' alt='AvatarTop').m-auto
           br
-          p.mt-5 Marcar o rotular, la marca de una vasija que contenga una muestra debe realizarse muy clara, con un marcador perdurable de modo tal que el laboratorio identifique ésta correctamente, sin que queden dudas sobre la información suministrada (evitar que la letra se corra o borre debido a la mala calidad del marcador).
+          p.mt-5 Marcar o rotular, la marca de una vasija que contenga una muestra debe realizarse muy clara, con un marcador perdurable de modo tal que el laboratorio identifique esta correctamente, sin que queden dudas sobre la información suministrada (evitar que la letra se corra o borre debido a la mala calidad del marcador).
       .col-md-6.col-xl.my-4.mb-xl-0
         .tarjeta-numerada.color-acento-botones.bg-verde.px-3.py-3.h-100
           .tarjeta-numerada__numero

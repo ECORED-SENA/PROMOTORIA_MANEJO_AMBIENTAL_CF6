@@ -19,7 +19,7 @@
           .tarjeta-imagen__imagen: img(src='@/assets/curso/13.jpg')
           .tarjeta-imagen__contenido.p-4.text-center.m-4
             h4 Aguas superficiales
-            p Se emplean a partir de la captación de agua de lluvia, arroyos, ríos, lagos, etc. que discurren naturalmente en la superficie terrestre. Estas fuentes no son tan deseables, especialmente si existen zonas habitadas o de pastoreo animal.
+            p Se emplean a partir de la captación de agua de lluvia, arroyos, ríos, lagos, etc., que discurren naturalmente en la superficie terrestre. Estas fuentes no son tan deseables, especialmente si existen zonas habitadas o de pastoreo animal.
       .col-xl-4.mb-5
         .tarjeta-imagen.bg-verde.h-100.mb-5
           .tarjeta-imagen__imagen: img(src='@/assets/curso/14.jpg')
@@ -31,7 +31,7 @@
       .col-lg-7
         img(src='@/assets/curso/15.jpg' )
       .col-lg-5
-        .bg-amarillo.p-5.h-50.w-100.d-flex.justify-content-center.align-items-center
+        .bg-amarillo.p-5.h-80.w-100.d-flex.justify-content-center.align-items-center
           h3 Q=V/t, V es volumen
               br
               |t= es el tiempo que se utiliza en su toma
@@ -94,7 +94,7 @@
                           b Donde: 
                           br
                           b Q = 
-                          | Caudal que fluye por el vertedero, en m<sup>3</sup> /s
+                          | Caudal que fluye por el vertedero, en m<sup>3</sup>/s
                           br
                           b L = 
                           | Ancho de la cresta, en m  
@@ -112,7 +112,7 @@
                           b Donde:
                           br
                           b Q = 
-                          | Caudal que fluye por el vertedero, en m<sup>3</sup> /s
+                          | Caudal que fluye por el vertedero, en m<sup>3</sup>/s
                           br
                           b L = 
                           | Ancho de la cresta, en m 
@@ -130,7 +130,7 @@
                           b Donde:
                           br
                           b Q = 
-                          | Caudal que fluye por el vertedero, en m<sup>3</sup> /s 
+                          | Caudal que fluye por el vertedero, en m<sup>3</sup>/s 
                           br
                           b H = 
                           | Carga del vertedero, en m 
@@ -157,7 +157,7 @@
                           b Donde:
                           br
                           b Q =  
-                          | Caudal que fluye por el vertedero, en m<sup>3</sup> /s 
+                          | Caudal que fluye por el vertedero, en m<sup>3</sup>/s 
                           br
                           b D =  
                           | Diámetro del círculo, en m 
@@ -180,7 +180,7 @@
               b Donde:
               br
               b Q = 
-              | Caudal del agua, en m<sup>3</sup> /s 
+              | Caudal del agua, en m<sup>3</sup>/s 
               br
               b A = 
               | Área de la sección transversal, en m<sup>2</sup>
@@ -224,12 +224,13 @@ export default {
     .tarjeta-imagen__imagen
       transform: translateY(0)
   .tarjeta-imagen__imagen
+    min-height: 100%
     width: 100%
     transition: transform .3s ease-in-out
     position: absolute
     bottom: 0
     transform-origin: top left
-    transform: translateY(-100%)
+    transform: translateY(-300%)
 .bg-amarillo
   background-color: #FFBB00
   border-radius: 0px 300px 0px 0px

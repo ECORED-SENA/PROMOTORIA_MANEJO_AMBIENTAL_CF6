@@ -260,7 +260,7 @@
     Separador
     #t_4_3.titulo-segundo(data-aos="fade-right")
       h2 4.3 Técnicas de almacenamiento
-    p.mb-5 Se utilizan recipientes de plástico o vidrio según el parámetro requerido en la adición de reactivos. Se debe hacer una fijación de la muestra, control de pH, filtro, conservación, refrigeración entre 5⁰C y 3⁰C. Debido a que el agua potable es utilizada para el consumo. Los muestreos se hacen bajo estrictas medidas de seguridad para evitar la contaminación con microorganismos, debido a eso se hacen necesarias herramientas especiales en términos de envases con inhibidores bacterianos, técnicas de muestreo y preservantes para garantizar la calidad de la muestra, alistamiento de envases, reactivos y preservantes para la toma de muestras de agua potable.
+    p.mb-5 Se utilizan recipientes de plástico o vidrio según el parámetro requerido en la adición de reactivos. Se debe hacer una fijación de la muestra, control de pH, filtro, conservación, refrigeración entre 5⁰C y 3⁰C. Debido a que el agua potable es utilizada para el consumo, los muestreos se hacen bajo estrictas medidas de seguridad para evitar la contaminación con microorganismos, debido a eso se hacen necesarias herramientas especiales en términos de envases con inhibidores bacterianos, técnicas de muestreo y preservantes para garantizar la calidad de la muestra, alistamiento de envases, reactivos y preservantes para la toma de muestras de agua potable.
       br
       br
       |Bien sea para actividades de control o vigilancia, una vez definido el tipo de muestreo, antes de iniciar las actividades se debe alistar el material requerido dentro de este:
@@ -296,7 +296,7 @@
                 img(src='@/assets/curso/65.jpg', alt='Texto que describa la imagen')
             .col-md-6
               h3 Escoger la sustancia preservante
-              p Cuando se requiera su uso se debe determinar de acuerdo con los parámetros a medir el tipo de preservación la cual puede ser por acidificación a pH < 2, alcalinización a pH > 11, enfriamiento entre 2° a 5 °, congelamiento a -20°, entre otros.
+              p Cuando se requiera su uso se debe determinar de acuerdo con los parámetros a medir el tipo de preservación la cual puede ser por acidificación a pH < 2, alcalinización a pH > 11, enfriamiento entre 2° a 5°, congelamiento a -20°, entre otros.
           .row
             .col-md-6.mb-4.mb-md-0
               h3 Neveras o elementos de transporte y preservación 
@@ -311,7 +311,7 @@
                 img(src='@/assets/curso/67.jpg', alt='Texto que describa la imagen')
             .col-md-6
               h3 Alistamiento de equipos
-              p Siempre realizar el alistamiento con la debida calibración de los equipos cuando sea necesario, dentro de estos se encuentra el cronómetro, recipientes aforados, termómetros y equipos de campo para parámetros in situ.
+              p Siempre realizar el alistamiento con la debida calibración de los equipos cuando sea necesario, dentro de estos se encuentra el cronómetro, recipientes aforados, termómetros y equipos de campo para parámetros <i>in situ</i>.
 
           .row
             .col-md-6.mb-4.mb-md-0

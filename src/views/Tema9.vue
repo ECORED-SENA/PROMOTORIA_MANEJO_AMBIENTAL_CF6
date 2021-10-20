@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 9
       h1 Georreferenciación del sitio de muestreo 
-    p.mb-5 La georreferenciación de un punto de muestreo es la localización de las coordenadas geográficas del lugar que se va a muestrear es importante porque define la ubicación exacta en el punto de muestreo; esta es tomada con el GPS. Los puntos de muestreo seleccionados deben identificarse en el registro respectivo con los siguientes datos en su orden, así:
+    p.mb-5 La georreferenciación de un punto de muestreo es la localización de las coordenadas geográficas del lugar que se va a muestrear, es importante porque define la ubicación exacta en el punto de muestreo; esta es tomada con el GPS. Los puntos de muestreo seleccionados deben identificarse en el registro respectivo con los siguientes datos en su orden, así:
     .row.justify-content-center
       .col-lg-5
         PasosA.color-acento-contenido.mb-5(tipo="n")

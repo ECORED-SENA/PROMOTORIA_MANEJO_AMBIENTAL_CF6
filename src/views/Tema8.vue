@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 8
       h1 Registro de campo
-    p.mb-5 El registro de campo o acta de toma de muestras debe mantenerse intacto durante todo el procedimiento y el nombre que se le asigna a la muestra en el momento de la toma debe ser claro y marcado de forma durable para su identificación. Para ello, se deben tener en cuenta registrar la muestra con características in-situ como pH, temperatura para agua cruda y para agua potable, pH, temperatura y cloro residual. Es importante registrar el tipo de mediciones efectuadas y las variaciones ambientales del sitio tales como condiciones del clima y observaciones inusuales y para ello se debe tener en cuenta: 
+    p.mb-5 El registro de campo o acta de toma de muestras debe mantenerse intacto durante todo el procedimiento y el nombre que se le asigna a la muestra en el momento de la toma debe ser claro y marcado de forma durable para su identificación. Para ello, se deben tener en cuenta registrar la muestra con características <i>in situ</i> como pH, temperatura para agua cruda y para agua potable, pH, temperatura y cloro residual. Es importante registrar el tipo de mediciones efectuadas y las variaciones ambientales del sitio tales como condiciones del clima y observaciones inusuales y para ello se debe tener en cuenta: 
     .contendores-hover.d-xl-block.d-lg-block
       .contenedor-colores-hover.bg-colores__naranja.d-flex.p-5.mb-1
         p.mb-0 Los recipientes que contengan muestras deben marcarse en forma clara y durable para permitir su identificación en el laboratorio sin ninguna ambigüedad. 

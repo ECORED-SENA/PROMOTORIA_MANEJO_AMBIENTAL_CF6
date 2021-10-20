@@ -59,7 +59,7 @@
           .tarjeta.tarjeta--verde-claro
             .p-4
               p.m-auto 
-                b Georreferenciación
+                b Georreferenciación 
                 | del punto de muestreo.
       .col-lg-6
         .tarjeta-avatar-b.mb-5.h-100.d-flex.justify-content-center
@@ -68,7 +68,7 @@
           .tarjeta.tarjeta--verde-claro
             .p-4
               p.m-auto 
-                b Localización en el plano
+                b Localización en el plano 
                 | de la red de distribución.
     Separador
     #t_1_1.titulo-segundo(data-aos="fade-right")

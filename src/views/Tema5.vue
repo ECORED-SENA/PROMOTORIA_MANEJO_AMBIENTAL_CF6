@@ -69,7 +69,9 @@
           li 
             .lista-ol--cuadro__vineta
               span 1
-            | Abrir la bolsa <i>whirl-pak</i> con cuidado, estirando del plástico para rasgar por la línea perforada.
+            p.mb-0 Abrir la bolsa 
+              span.fst-italic whirl-pak 
+              |con cuidado, estirando del plástico para rasgar por la línea perforada.
           li 
             .lista-ol--cuadro__vineta
               span 2
