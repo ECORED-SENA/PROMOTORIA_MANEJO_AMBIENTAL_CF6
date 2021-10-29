@@ -12,8 +12,8 @@
         p.h1.fw-normal.mb-0 El transporte es aquel que permite llevar la muestra desde el sitio donde se toma hasta el laboratorio para su análisis; puede ser terrestre, aéreo y acuático y para su utilización se debe tener en cuenta diferentes protocolos para un correcto resultado, como lo son: 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/qMUESsR2-ic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Transporte de la muestra
 </template>
 
 <script>
