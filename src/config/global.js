@@ -189,7 +189,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Cadena de custodia ',
+      termino: 'Cadena de custodia',
       significado:
         'Proceso por medio del cual se mantiene una muestra bajo posesión física o control durante su ciclo de vida completo, es decir, desde que se toma hasta que se desecha.',
     },

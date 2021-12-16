@@ -50,7 +50,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 3
-            | Abrir el recipiente estéril, evitando todo contacto de los dedos con la boca e interior del mismo y sosteniendo la tapa de manera que ésta mire para abajo.
+            | Abrir el recipiente estéril, evitando todo contacto de los dedos con la boca e interior del mismo y sosteniendo la tapa de manera que esta mire para abajo.
           li 
             .lista-ol--cuadro__vineta
               span 4
