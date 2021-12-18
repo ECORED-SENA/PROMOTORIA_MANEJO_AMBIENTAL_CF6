@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161" height="161" viewBox="0 0 161 161">
+  <g id="Grupo_102469" data-name="Grupo 102469" transform="translate(-209 -1185)">
+    <circle id="Elipse_4351" data-name="Elipse 4351" cx="80.5" cy="80.5" r="80.5" transform="translate(209 1185)" fill="#fff"/>
+    <g id="harina" transform="translate(236.437 964.355)">
+      <g id="Grupo_101687" data-name="Grupo 101687" transform="translate(10.393 269.645)">
+        <g id="Grupo_101684" data-name="Grupo 101684" transform="translate(0 0)">
+          <path id="Trazado_157588" data-name="Trazado 157588" d="M130.142,319.608l-22.57-36.942c-10.607-17.362-30.459-17.362-41.066,0l-22.57,36.942Z" transform="translate(-43.937 -269.645)" fill="#fff59b" stroke="#12263f" stroke-width="5"/>
+        </g>
+      </g>
+      <g id="Grupo_101688" data-name="Grupo 101688" transform="translate(0 293.73)">
+        <path id="Trazado_157590" data-name="Trazado 157590" d="M104.626,417.674H2.365C1.059,417.674,0,419.09,0,420.836,0,430.413,5.829,438.2,12.995,438.2H94c7.165,0,12.995-7.792,12.995-17.369C106.991,419.09,105.932,417.674,104.626,417.674ZM94,431.881h-81c-3.735,0-6.9-3.329-7.919-7.884h96.84c-1.019,4.555-4.184,7.884-7.919,7.884Z" transform="translate(0 -394.957)" fill="#12263f"/>
+        <path id="Trazado_157592" data-name="Trazado 157592" d="M128.106,382.751c0,1.746,1.059,3.162,2.365,3.162H134.7c1.306,0,2.365-1.415,2.365-3.162s-1.059-3.162-2.365-3.162h-4.227C129.165,379.589,128.106,381,128.106,382.751Z" transform="translate(-97.804 -368.913)" fill="#12263f"/>
+        <path id="Trazado_157593" data-name="Trazado 157593" d="M186.131,385.912h4.227c1.306,0,2.365-1.415,2.365-3.162s-1.059-3.162-2.365-3.162h-4.227c-1.306,0-2.365,1.415-2.365,3.162S184.825,385.912,186.131,385.912Z" transform="translate(-140.298 -368.913)" fill="#12263f"/>
+        <path id="Trazado_157594" data-name="Trazado 157594" d="M155.124,345.823H150.9c-1.306,0-2.365,1.415-2.365,3.162s1.059,3.162,2.365,3.162h4.228c1.306,0,2.365-1.415,2.365-3.162S156.43,345.823,155.124,345.823Z" transform="translate(-113.398 -345.823)" fill="#12263f"/>
+      </g>
+    </g>
+  </g>
+</svg>
